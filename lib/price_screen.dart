@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'coin_data.dart';
+import 'package:flutter/cupertino.dart';
+import 'dart:convert';
+import 'htt';
 
 class PriceScreen extends StatefulWidget {
 
